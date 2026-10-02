@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+deep-translator==1.11.4
+langdetect==1.0.9
+pyttsx3==2.90
+pillow==10.4.0
+pyperclip==1.9.0
